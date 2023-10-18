@@ -43,3 +43,7 @@ The MVP should include the following components:
 **Data Storage**: Cloud Object Storage solutions such as AWS S3 will be considered for data storage depending on scalability and cost-effectiveness.  
 
 This foundation will enable us to effectively manage and develop the Financial Planet (FP) Data Science MVP Project, ensuring that we meet FP's requirements for demonstrating our data science capabilities.
+
+# Dashboard
+
+https://public.tableau.com/app/profile/gouravdeep.singh2472/viz/DSCC-FP-MVP/Dashboard1?publish=yes 
